@@ -7,7 +7,7 @@ def display_board(object)
   puts "-----------"
   puts "   |   |   "
   puts "-----------"
-  puts "   |      "
+  puts "   |   |   "
 
 end
 
