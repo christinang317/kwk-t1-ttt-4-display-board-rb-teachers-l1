@@ -9,6 +9,8 @@ def display_board(object)
   puts "-----------"
   puts "   |   |   "
 
+  puts "#{board[2]}"
+
 end
 
 display_board(board)
